@@ -2,6 +2,7 @@ local games = {
     [79268393072444] = "", -- Sell Lemons
     [83645629621104] = "", -- Forsaken
     [124842176624983] = "", -- Overkill
+    [90646044690663] = "", -- Mobile Overkill
 }
 
 local currentPlaceId = game.PlaceId
