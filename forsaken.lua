@@ -1,4 +1,3 @@
-
 -- Forsaken Plus Made by Naiko Scripts --
 
 if workspace.DistributedGameTime < 4 then
